@@ -1,0 +1,10 @@
+C:\Users\Schaffer\source\repos\Retro_Calc\Calc\bin\Release\Calc.exe.config
+C:\Users\Schaffer\source\repos\Retro_Calc\Calc\bin\Release\Calc.exe
+C:\Users\Schaffer\source\repos\Retro_Calc\Calc\bin\Release\Calc.pdb
+C:\Users\Schaffer\source\repos\Retro_Calc\Calc\obj\Release\Calc.csprojAssemblyReference.cache
+C:\Users\Schaffer\source\repos\Retro_Calc\Calc\obj\Release\Calc.Form1.resources
+C:\Users\Schaffer\source\repos\Retro_Calc\Calc\obj\Release\Calc.Properties.Resources.resources
+C:\Users\Schaffer\source\repos\Retro_Calc\Calc\obj\Release\Calc.csproj.GenerateResource.cache
+C:\Users\Schaffer\source\repos\Retro_Calc\Calc\obj\Release\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Schaffer\source\repos\Retro_Calc\Calc\obj\Release\Calc.exe
+C:\Users\Schaffer\source\repos\Retro_Calc\Calc\obj\Release\Calc.pdb
